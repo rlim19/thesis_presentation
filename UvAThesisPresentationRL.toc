@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.20pt}
+\beamer@sectionintoc {1}{Prelude}{6}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{?`Our Question?}{20}{0}{2}
+\beamer@subsectionintoc {2}{2}{Our Strategy}{22}{0}{2}
+\beamer@sectionintoc {3}{Our Results}{24}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{33}{0}{4}
